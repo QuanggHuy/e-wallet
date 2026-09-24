@@ -1,0 +1,10 @@
+# Environment secrets
+backend/.env
+
+# Go
+backend/*.exe
+backend/*.test
+
+# OS
+.DS_Store
+Thumbs.db
